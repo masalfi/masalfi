@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 # Halo, Saya Alfi! 👋
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masalfiA&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masalfi&show_icons=true&theme=radical)
 
 ---
