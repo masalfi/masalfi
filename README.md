@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 # Halo, Saya Alfi! 👋
 
 Selamat datang di profil GitHub saya. Berikut adalah beberapa statistik aktivitas saya:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masalfi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub 
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masalfiA&theme=dark)
 
 ---
