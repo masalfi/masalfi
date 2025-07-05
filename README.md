@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 Selamat datang di profil GitHub saya. Berikut adalah beberapa statistik aktivitas saya:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masalfi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats Budi"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masalfi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs Budi"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=masalfi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub 
 </div>
 
 ---
